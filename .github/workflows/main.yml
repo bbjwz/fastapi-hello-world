@@ -1,5 +1,5 @@
 on: [push]
-name: pythonappazuredeployment
+name: PythonAppAzureDeployment
 jobs:
     build-and-deploy:
         runs-on: ubuntu-latest
